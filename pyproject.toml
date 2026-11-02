@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "renovate-poetry-short-version-update"
+version = "0.1.0"
+authors = []
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.15"
+roman = "^4.2"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
