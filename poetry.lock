@@ -2,17 +2,17 @@
 
 [[package]]
 name = "roman"
-version = "4.2"
+version = "5.2"
 description = "Integer to Roman numerals converter"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.10"
 groups = ["main"]
 files = [
-    {file = "roman-4.2-py3-none-any.whl", hash = "sha256:dc3564330fba3cd06b108edc694500609830169e3479706eb1ee7f0c197e4b6c"},
-    {file = "roman-4.2.tar.gz", hash = "sha256:05f335a1b2b0824f827ed42fff84b35909aab9013799145ed4508bdd4fa3b385"},
+    {file = "roman-5.2-py3-none-any.whl", hash = "sha256:89d3b47400388806d06ff77ea77c79ab080bc127820dea6bf34e1f1c1b8e676e"},
+    {file = "roman-5.2.tar.gz", hash = "sha256:275fe9f46290f7d0ffaea1c33251b92b8e463ace23660508ceef522e7587cb6f"},
 ]
 
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<3.15"
-content-hash = "22686fd4cff06df7147663aafb2c6285402955512c5e2c4eeec2431523729b94"
+content-hash = "86ef7f4c139640a2797803a96dbd37f441425eed9c72c599ca53557149dc1847"
