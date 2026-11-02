@@ -5,7 +5,7 @@ authors = []
 package-mode = false
 
 [tool.poetry.dependencies]
-python = ">=3.12,<3.15"
+python = ">=3.15,<3.16"
 roman = "^4.2"
 
 [build-system]
